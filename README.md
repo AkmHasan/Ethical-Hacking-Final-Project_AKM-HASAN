@@ -1,5 +1,5 @@
 # Ethical-Hacking-Final-Project_AKM-HASAN
-The report should have been completed by the following structure:  
+The report I have been completed by the following structure:  
 
  Reconnaissance and target analysis,
  Penetration (describing in detail the steps I have taken, tools I used),
